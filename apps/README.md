@@ -50,7 +50,8 @@ If code proves useful across prototypes, extract it to `packages/`:
 
 ## Current Prototypes
 
-*None yet - starting from scratch!*
+- `proto-01-movement` - Active movement prototype (speed tiers, postures, movement test level)
+- `proto-02-light-shadow` - Scaffold created from prototype template for upcoming visibility work
 
 ## Planned Prototype Sequence
 

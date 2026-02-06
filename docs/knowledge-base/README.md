@@ -8,7 +8,8 @@ Quick-reference documents for agents working on Echelon. These are **internal pa
 knowledge-base/
 ├── systems/       # How our game systems work
 ├── patterns/      # Code patterns we use
-└── references/    # External API quick-refs
+├── references/    # External API quick-refs
+└── skills/        # Agent skill usage conventions
 ```
 
 ## When to Reference

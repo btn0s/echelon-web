@@ -118,6 +118,13 @@ Is it a single file change?
 
 ## Automations to Build
 
+Implemented scripts now live under `scripts/`:
+
+- `scripts/new-prototype.sh`
+- `scripts/index-knowledge.sh`
+- `scripts/freeze-proto.sh`
+- `scripts/validate-agents.sh`
+
 ### 1. Prototype Scaffolding Script
 
 ```bash

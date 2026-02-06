@@ -6,7 +6,12 @@
   "scripts": {
     "dev": "turbo dev",
     "build": "turbo build",
+    "typecheck": "turbo typecheck",
     "lint": "turbo lint",
+    "create-proto": "./scripts/new-prototype.sh",
+    "index-knowledge": "./scripts/index-knowledge.sh",
+    "validate-agents": "./scripts/validate-agents.sh",
+    "freeze-proto": "./scripts/freeze-proto.sh",
     "clean": "turbo clean && rm -rf node_modules",
     "format": "prettier --write \"**/*.{ts,tsx,md,json}\""
   },

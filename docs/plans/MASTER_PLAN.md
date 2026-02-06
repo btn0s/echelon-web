@@ -23,9 +23,9 @@ Set up infrastructure for 10x agentic development speed.
 |----|-----------|-------------|--------|
 | 0.1 | Repo structure | Turborepo monorepo with apps/packages/docs | Done |
 | 0.2 | Research synthesis | docs/research/* populated | Done |
-| 0.3 | Knowledge base | docs/knowledge-base/* with context files | In Progress |
-| 0.4 | Agentic tooling | Skills, templates, automations defined | In Progress |
-| 0.5 | Proto template | Base R3F app template for all prototypes | Pending |
+| 0.3 | Knowledge base | docs/knowledge-base/* with context files | Done |
+| 0.4 | Agentic tooling | Skills, templates, automations defined | Done |
+| 0.5 | Proto template | Base R3F app template for all prototypes | Done |
 
 ### Knowledge Dependencies
 - `docs/knowledge-base/patterns/r3f-game-architecture.md`
@@ -245,6 +245,6 @@ Phase 6: Integration (needs all)
 
 ## Next Actions
 
-1. Complete knowledge base structure (Phase 0.3)
-2. Create proto template package (Phase 0.5)
-3. Begin proto-01-movement implementation (Phase 1.1)
+1. Complete proto-01 movement milestones 1.2-1.6 (feel tuning + gamepad parity)
+2. Validate movement success criteria and record findings in `apps/proto-01-movement/LEARNINGS.md`
+3. Freeze `proto-01-movement` and fork to `proto-02-light-shadow`
